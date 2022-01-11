@@ -1,3 +1,4 @@
+print('Press "Enter" to out of this cycle')
 while True:
     t=int(input("Please input the cycle times."))
     b=1
